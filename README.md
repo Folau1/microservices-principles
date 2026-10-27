@@ -42,7 +42,7 @@ Reverse proxy и API Gateway, ориентированный на контейн
 
 ## Задание 2. Брокер сообщения
 
-Для сравнения я возьму 4 ПО: RabbitMQ, Apache Kafka и ActiveMQ Artemis.
+Для сравнения я возьму 3 ПО: RabbitMQ, Apache Kafka и ActiveMQ Artemis.
 
 
 ### Сравнение брокеров сообщений
